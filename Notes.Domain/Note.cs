@@ -6,7 +6,13 @@ using System.Threading.Tasks;
 
 namespace Notes.Domain
 {
-    internal class Notes
+    public class Note
     {
+        public Guid UserId { get; set; }
+        public Guid Id { get; set; }
+        public string Title { get; set; }
+        public string Ditails { get; set; }
+        public DateTime CreationDate { get; set; }
+        public DateTime? EditDate { get; set; }
     }
 }
