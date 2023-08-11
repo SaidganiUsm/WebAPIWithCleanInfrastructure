@@ -1,10 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "Wz+1zXqJIUiNbW1LXS/TRSsZivTbrUyyk7KnJ1jxzq3GbFgiPRrgZ2PyNv07Na0rgWIC0WoMFNO9es11jtTPag==",
+  "dgSpecHash": "pAm8SdUc8FJZwvAKTvvXl2NjuGpkXco/d+KTwSllDhif4MmMC/WZRGIEG0QILZVGmMTzq1kn15eyoOk2mMrg5A==",
   "success": true,
   "projectFilePath": "D:\\C# Projects\\WebAPIWithCleanInfrastructure\\Notes.Application\\Notes.Application.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\User\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\mediatr\\12.1.1\\mediatr.12.1.1.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
     "C:\\Users\\User\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
     "C:\\Users\\User\\.nuget\\packages\\microsoft.entityframeworkcore\\7.0.10\\microsoft.entityframeworkcore.7.0.10.nupkg.sha512",
     "C:\\Users\\User\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\7.0.10\\microsoft.entityframeworkcore.abstractions.7.0.10.nupkg.sha512",
