@@ -1,0 +1,17 @@
+D:\C# Projects\WebAPIWithCleanInfrastructure\Notes.Persistance\bin\Debug\net6.0\Notes.Persistance.deps.json
+D:\C# Projects\WebAPIWithCleanInfrastructure\Notes.Persistance\bin\Debug\net6.0\Notes.Persistance.dll
+D:\C# Projects\WebAPIWithCleanInfrastructure\Notes.Persistance\bin\Debug\net6.0\Notes.Persistance.pdb
+D:\C# Projects\WebAPIWithCleanInfrastructure\Notes.Persistance\bin\Debug\net6.0\Notes.Application.dll
+D:\C# Projects\WebAPIWithCleanInfrastructure\Notes.Persistance\bin\Debug\net6.0\Notes.Domain.dll
+D:\C# Projects\WebAPIWithCleanInfrastructure\Notes.Persistance\bin\Debug\net6.0\Notes.Application.pdb
+D:\C# Projects\WebAPIWithCleanInfrastructure\Notes.Persistance\bin\Debug\net6.0\Notes.Domain.pdb
+D:\C# Projects\WebAPIWithCleanInfrastructure\Notes.Persistance\obj\Debug\net6.0\Notes.Persistance.csproj.AssemblyReference.cache
+D:\C# Projects\WebAPIWithCleanInfrastructure\Notes.Persistance\obj\Debug\net6.0\Notes.Persistance.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# Projects\WebAPIWithCleanInfrastructure\Notes.Persistance\obj\Debug\net6.0\Notes.Persistance.AssemblyInfoInputs.cache
+D:\C# Projects\WebAPIWithCleanInfrastructure\Notes.Persistance\obj\Debug\net6.0\Notes.Persistance.AssemblyInfo.cs
+D:\C# Projects\WebAPIWithCleanInfrastructure\Notes.Persistance\obj\Debug\net6.0\Notes.Persistance.csproj.CoreCompileInputs.cache
+D:\C# Projects\WebAPIWithCleanInfrastructure\Notes.Persistance\obj\Debug\net6.0\Notes.Persistance.csproj.CopyComplete
+D:\C# Projects\WebAPIWithCleanInfrastructure\Notes.Persistance\obj\Debug\net6.0\Notes.Persistance.dll
+D:\C# Projects\WebAPIWithCleanInfrastructure\Notes.Persistance\obj\Debug\net6.0\refint\Notes.Persistance.dll
+D:\C# Projects\WebAPIWithCleanInfrastructure\Notes.Persistance\obj\Debug\net6.0\Notes.Persistance.pdb
+D:\C# Projects\WebAPIWithCleanInfrastructure\Notes.Persistance\obj\Debug\net6.0\ref\Notes.Persistance.dll

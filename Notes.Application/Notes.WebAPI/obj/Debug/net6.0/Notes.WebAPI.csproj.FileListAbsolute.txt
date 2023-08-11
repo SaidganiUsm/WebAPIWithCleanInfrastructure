@@ -1,0 +1,12 @@
+D:\C# Projects\WebAPIWithCleanInfrastructure\Notes.WebAPI\bin\Debug\net6.0\Notes.WebAPI.deps.json
+D:\C# Projects\WebAPIWithCleanInfrastructure\Notes.WebAPI\bin\Debug\net6.0\Notes.WebAPI.dll
+D:\C# Projects\WebAPIWithCleanInfrastructure\Notes.WebAPI\bin\Debug\net6.0\Notes.WebAPI.pdb
+D:\C# Projects\WebAPIWithCleanInfrastructure\Notes.WebAPI\obj\Debug\net6.0\Notes.WebAPI.csproj.AssemblyReference.cache
+D:\C# Projects\WebAPIWithCleanInfrastructure\Notes.WebAPI\obj\Debug\net6.0\Notes.WebAPI.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# Projects\WebAPIWithCleanInfrastructure\Notes.WebAPI\obj\Debug\net6.0\Notes.WebAPI.AssemblyInfoInputs.cache
+D:\C# Projects\WebAPIWithCleanInfrastructure\Notes.WebAPI\obj\Debug\net6.0\Notes.WebAPI.AssemblyInfo.cs
+D:\C# Projects\WebAPIWithCleanInfrastructure\Notes.WebAPI\obj\Debug\net6.0\Notes.WebAPI.csproj.CoreCompileInputs.cache
+D:\C# Projects\WebAPIWithCleanInfrastructure\Notes.WebAPI\obj\Debug\net6.0\Notes.WebAPI.dll
+D:\C# Projects\WebAPIWithCleanInfrastructure\Notes.WebAPI\obj\Debug\net6.0\refint\Notes.WebAPI.dll
+D:\C# Projects\WebAPIWithCleanInfrastructure\Notes.WebAPI\obj\Debug\net6.0\Notes.WebAPI.pdb
+D:\C# Projects\WebAPIWithCleanInfrastructure\Notes.WebAPI\obj\Debug\net6.0\ref\Notes.WebAPI.dll
